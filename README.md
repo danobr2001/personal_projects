@@ -1,2 +1,2 @@
 # personal_projects
-A collection of personal projects I'm working on to get better at data science and python
+Various personal and school-related projects I have worked on over the past couple years.
